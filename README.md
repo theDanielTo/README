@@ -51,4 +51,4 @@ class AboutMe extends FullStackDeveloper {
   }
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDanielTo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDanielTo?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
