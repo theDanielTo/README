@@ -1,4 +1,7 @@
 # :wave: Hello, GitHub! :wave:
+[![Visits Badge](https://badges.pufler.dev/visits/theDanielTo/theDanielTo)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/theDanielTo)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/theDanielTo)](https://badges.pufler.dev)
 
 ### :thought_balloon: Who is Daniel To?
 
@@ -6,7 +9,9 @@ Hey there I'm Daniel To and I am a full stack web developer based in Orange Coun
 
 Creation has always been at my fingertips whether through playing piano pieces, building my own PC, or crafting firepits during camping trips. I enjoy the meticulous work that can reveal insignificant details and bring them to light. After discovering what programming can do, I was hooked with the dazzling new tools that were offered to me and since have been working with these tools to strengthen my creative side.
 
-I am a responsible, organized and self motivated individual who works well in a team environment and also independently. I have several years in the manufacturing industry working with a team to keep the quality of our product the finest it could be. 
+I am a responsible, organized and self motivated individual who works well in a team environment and also independently. I have several years in the manufacturing industry working with a team to keep the quality of our product the finest it could be.
+
+### Todo List
 
 ### :coffee: Contact me and let's have a coffee together!
 - [Linkedin](https://www.linkedin.com/in/to-daniel/)
