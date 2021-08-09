@@ -1,4 +1,5 @@
-# :wave: Hello, GitHub! :wave:
+![README header](https://github.com/theDanielTo/theDanielTo/blob/main/header.png?raw=true)
+
 [![Visits Badge](https://badges.pufler.dev/visits/theDanielTo/theDanielTo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/theDanielTo)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/theDanielTo)](https://badges.pufler.dev)
