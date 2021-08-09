@@ -22,11 +22,11 @@ I am a responsible, organized and self motivated individual who works well in a 
 
 ### :coffee: *Contact me* and let's have a coffee together!
 
-<a href="https://www.linkedin.com/in/to-daniel/">
+<a href="https://www.linkedin.com/in/to-daniel/" target="_blank">
 <img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="Linkedin"/>Linkedin
 </a>
 
-<a href="https://drive.google.com/file/d/1KXtBTqIn07ATk8D2XeSM1bjKki7Or0GX/view">
+<a href="https://drive.google.com/file/d/1KXtBTqIn07ATk8D2XeSM1bjKki7Or0GX/view" target="_blank">
 <img align="center" src="https://img.icons8.com/nolan/64/open-resume.png" alt="Resume"/>Resume
 </a>
 
