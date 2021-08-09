@@ -32,7 +32,7 @@ I am a responsible, organized and self motivated individual who works well in a 
 
 ***
 
-```
+```JAVASCRIPT
 class AboutMe extends FullStackDeveloper {
   constructor() {
     this.name = 'Daniel To';
