@@ -1,5 +1,4 @@
 ![README header](https://user-images.githubusercontent.com/82009814/128755231-cc45721a-63a5-429e-8427-e7c0da1a14de.png)
-
 [![Visits Badge](https://badges.pufler.dev/visits/theDanielTo/theDanielTo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/theDanielTo)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/theDanielTo)](https://badges.pufler.dev)
@@ -33,30 +32,13 @@ class AboutMe extends FullStackDeveloper {
   getSkills() {
     return {
       languages: [
-        'JavaScript (ES5/ES6)',
-        'HTML5',
-        'CSS3',
-        'C++',
-        'Python'
+        'JavaScript (ES5/ES6)', 'HTML5', 'CSS3', 'C++', 'Python'
       ],
       frameworksAndLibraries: [
-        'React.js',
-        'Node.js',
-        'Express.js',
-        'jQuery',
-        'Bootstrap 4'
+        'React.js', 'Node.js', 'Express.js', 'jQuery', 'Bootstrap 4'
       ],
       tools: [
-        'React Hooks',
-        'Git',
-        'npm',
-        'webpack',
-        'Figma',
-        'Slack',
-        'RESTful APIs',
-        'HTTPie',
-        'PostgreSQL',
-        'OOP'
+        'React Hooks', 'Git', 'npm', 'webpack', 'Figma', 'Slack', 'RESTful APIs', 'HTTPie', 'PostgreSQL', 'OOP'
       ]
     };
   }
@@ -69,3 +51,4 @@ class AboutMe extends FullStackDeveloper {
   }
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theDanielTo)](https://github.com/anuraghazra/github-readme-stats)
