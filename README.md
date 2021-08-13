@@ -20,9 +20,9 @@ I am a responsible, organized and self motivated individual who works well in a 
 
 ***
 
-### :coffee: *Contact me* and let's have a coffee together!
+### :coffee: *Let's have a coffee together!*
 
-<a href="https://www.linkedin.com/in/to-daniel/" target="_blank">
+<a href="https://www.linkedin.com/in/to-daniel/">
 <img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="Linkedin"/>Linkedin
 </a>
 
