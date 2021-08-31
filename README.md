@@ -13,7 +13,7 @@ I am a responsible, organized and self motivated individual who works well in a 
 ***
 
 ### :white_check_mark: What am I working on?
-- [ ] :heavy_plus_sign: Learn React Hooks
+- [x] :heavy_plus_sign: Learn React Hooks
 - [ ] :heavy_plus_sign: Learn Redux
 - [ ] :heavy_plus_sign: Finish up MVP features on [Reel'n ](https://github.com/theDanielTo/Reeln)
 - [ ] :heavy_plus_sign: Get AWS certificate
