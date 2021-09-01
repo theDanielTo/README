@@ -26,7 +26,7 @@ I am a responsible, organized and self motivated individual who works well in a 
 <img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="Linkedin"/>Linkedin
 </a>
 
-<a href="https://drive.google.com/file/d/1KXtBTqIn07ATk8D2XeSM1bjKki7Or0GX/view" target="_blank">
+<a href="https://drive.google.com/file/d/1Xq9vhQgYxNE9R_mPF1R6muWwiC4SVLyf/view" target="_blank">
 <img align="center" src="https://img.icons8.com/nolan/64/open-resume.png" alt="Resume"/>Resume
 </a>
 
