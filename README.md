@@ -57,7 +57,7 @@ class AboutMe extends FullStackDeveloper {
   getLinks() {
     return {
       linkedin: 'https://www.linkedin.com/in/to-daniel/',
-      resume: 'https://drive.google.com/file/d/1KXtBTqIn07ATk8D2XeSM1bjKki7Or0GX/view'
+      resume: 'https://drive.google.com/file/d/1gw5geYgyD69cEqdKxBPBDzOD6LECUpaa/view?usp=sharing'
     };
   }
 }
