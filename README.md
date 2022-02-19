@@ -43,13 +43,13 @@ class AboutMe extends FullStackDeveloper {
   getSkills() {
     return {
       languages: [
-        'TypeScript', 'JavaScript (ES5/ES6)', 'HTML5', 'CSS3'
+        'TypeScript', 'JavaScript (ES5/ES6)', 'Java', 'HTML5', 'CSS3'
       ],
       frameworksAndLibraries: [
-        'React.js', 'Node.js', 'Express.js', 'Material UI', 'jQuery', 'Bootstrap 4'
+        'React.js', 'Node.js', 'Express.js', 'Material UI', 'jQuery', 'Bootstrap 4', 'Spring', 'Spring Boot'
       ],
       tools: [
-        'React Hooks', 'Git', 'npm', 'webpack', 'Figma', 'Slack', 'RESTful APIs', 'HTTPie', 'PostgreSQL', 'OOP'
+        'React Hooks', 'Git', 'npm', 'webpack', 'Figma', 'Postman', 'Oracle Developer', 'PGAdmin4', 'RESTful APIs', 'HTTPie', 'PostgreSQL', 'OOP'
       ]
     };
   }
